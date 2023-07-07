@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    align-items: center;
+    text-align: center;
+    background-color: whitesmoke;
+}
+h1{
+    background-color: rgb(190, 190, 190);
+    margin-top: 0;
+    height: 32px;
+    width: 100%;
+}
+h2{
+    color:blue;
+    text-decoration: underline;
+}
+h2:hover{
+    cursor: pointer;
+}
+.flower-field{
+    width: 800px;
+    border-style: dashed;
+}
+ul{
+    list-style-type: none;
+}
+.flowers{
+    margin: 20px;
+    width: 240px;  
+    border-style: solid;
+}
